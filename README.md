@@ -1,8 +1,3 @@
-# ai-product-systems
-AI Product Systems roadmap: data, AI/ML, cloud, no-code, and mobile projects with proof-of-skill artifacts.
-
-
-
 # AI Product Systems 🚀
 
 This repository documents my end-to-end journey through the **AI Product Systems roadmap**.  
