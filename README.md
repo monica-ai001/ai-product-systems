@@ -77,9 +77,9 @@ This repo will ultimately showcase a range of projects, including:
 
 ## 🌐 Identity & Portfolio
 This repo connects with my:
-- [LinkedIn](https://linkedin.com/in/yourprofile) → public proof posts  
-- [GitHub Profile](https://github.com/yourusername) → identity beacon  
-- Portfolio Hub (Notion or Carrd) → expanded notes & projects  
+- [LinkedIn](https://linkedin.com/in/m-c-a8194b37b/) → public proof posts  
+- [GitHub Profile](https://github.com/monica-ai001) → identity beacon  
+- Portfolio Hub (Notion link coming soon) → expanded notes & projects  
 
 ---
 
