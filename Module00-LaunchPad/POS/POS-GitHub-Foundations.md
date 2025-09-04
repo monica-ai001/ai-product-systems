@@ -27,7 +27,7 @@ In this repo, scaffolding =
 This way, the repo is already professional and navigable, even before projects are added.  
 
 You can see the scaffolding for yourself here:  
-👉 [ai-product-systems GitHub Repo](https://github.com/your-username/ai-product-systems)  
+👉 [ai-product-systems GitHub Repo](https://github.com/monica-ai001/ai-product-systems)  
 
 ---
 
